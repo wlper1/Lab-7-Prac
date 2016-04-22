@@ -1,11 +1,15 @@
 LIST OF MEMBERS FOR TEAM XXX
  
-William Perrott
+Will Perrott
  
-Michaelangelo Pena 
+Michael Pena 
  
-Alanabanana Majstorovich
+Alana Majstorovich
  
+<<<<<<< HEAD
 ApiWATTS Teerawanichpong
 
 We are going to do the second project!!!
+=======
+Apiwat Teerawanichpong
+>>>>>>> parent of d87cc70... Update Members.txt
