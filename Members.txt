@@ -4,10 +4,12 @@ Will Perrott
  
 Michael Pena 
  
-Alana Majstorovic
- 
-Apiwat Teerawanichpong
 
+<<<<<<< HEAD
 We are going to do the second project!!!
 
 hello again
+=======
+ApiWATTS Teerawanichpong
+Update Members.txt
+>>>>>>> master
