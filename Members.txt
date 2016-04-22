@@ -10,4 +10,8 @@ Alana Majstorovic
 Alana Majstorovich
 >>>>>>> parent of d87cc70... Update Members.txt
  
+<<<<<<< HEAD
 Apiwat Teerawanichpong
+=======
+ApiWATTS Teerawanichpong
+>>>>>>> parent of ee62956... Update Members.txt
