@@ -4,20 +4,8 @@ Will Perrott
  
 Michael Pena 
  
-<<<<<<< HEAD
-Alana Majstorovich
- 
-<<<<<<< HEAD
-ApiWATTS Teerawanichpong
-
-We are going to do the second project!!!
-=======
-Apiwat Teerawanichpong
->>>>>>> parent of d87cc70... Update Members.txt
-=======
 Alana Majstorovic
  
 Apiwat Teerawanichpong
 
 We are going to do the second project!!!
->>>>>>> origin/master
