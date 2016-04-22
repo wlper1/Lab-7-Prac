@@ -4,6 +4,10 @@ Will Perrott
  
 Michael Pena 
  
+<<<<<<< HEAD
 Alana Majstorovic
+=======
+Alana Majstorovich
+>>>>>>> parent of d87cc70... Update Members.txt
  
 Apiwat Teerawanichpong
